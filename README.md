@@ -83,8 +83,7 @@ Analyze an online retail store’s performance, customer behavior, and operation
 - 📍 City-level analysis (e.g., Sao Paulo avg. price vs. payment)
 - 🚚 Shipping Days vs. Review Score correlation
 
-**Screenshot Preview**  
-![E-commerce Tableau Dashboard](./5.%20E%20commerce%20Store%20Analysis%20Tableau.png)
+[Click to View Dashboard PNG](./5.%20E%20commerce%20Store%20Analysis%20Tableau.png)
 
 ---
 
