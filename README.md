@@ -63,6 +63,30 @@ Welcome to my Power BI dashboard portfolio! This collection highlights real-worl
 📄 [View Dashboard](./4.%20E%20commerce%20Store%20Analysis.pdf)
 
 ---
+## 📦 E-commerce Store Analysis (Tableau)
+
+**Objective**:  
+Analyze an online retail store’s performance, customer behavior, and operational metrics using Tableau.
+
+**Tools Used**: Tableau Public
+
+**Key Metrics Tracked**:
+- 📈 Total Customers: 96,096
+- 💰 Total Sales: $16,008,872
+- 💵 Total Profit: $2,417,228
+- 🛒 Total Sellers: 3,095
+
+**Highlights**:
+- 🔍 Weekday vs. Weekend Payment Distribution
+- 💳 Review score 5 and Credit Card usage insights
+- 🐾 Avg Delivery Days for Pet Shop
+- 📍 City-level analysis (e.g., Sao Paulo avg. price vs. payment)
+- 🚚 Shipping Days vs. Review Score correlation
+
+**Screenshot Preview**  
+![E-commerce Tableau Dashboard](./5.%20E%20commerce%20Store%20Analysis%20Tableau.png)
+
+---
 
 ## 🔗 Connect with Me
 
