@@ -1,8 +1,18 @@
-# Analysis-Dashboard
-# 📊 Power BI Dashboard Portfolio – Saurabh khosla
+# 📊 Data Analysis & Dashboard Portfolio
 
-Welcome to my Power BI dashboard portfolio! This collection highlights real-world data storytelling through interactive dashboards. Each project is designed to solve specific business challenges using advanced data modeling, DAX calculations, and visual analytics. Below are the details of each project:
+Welcome to my portfolio showcasing real-world business intelligence projects built using **Power BI**, **Tableau**, and **Excel**. These dashboards reflect my hands-on experience as a data-driven professional, with a strong focus on delivering actionable insights across domains such as customer satisfaction, sales performance, e-commerce, and churn prediction.
 
+Whether you're a recruiter, hiring manager, or fellow data enthusiast, feel free to explore the dashboards and get a sense of how I approach storytelling with data.
+
+---
+
+## 🔧 Tools & Technologies
+- **Power BI** – DAX-driven interactive dashboards
+- **Tableau** – Visual analytics and drill-down exploration
+- **Excel** – Pivot tables, charts, formulas for ad-hoc analysis
+
+---
+## 📁 Featured Projects
 ---
 
 ## 🛫 1. **Airlines Passenger Satisfaction Report**
