@@ -117,7 +117,7 @@ Visualize customer satisfaction (CSAT), resolution efficiency, and support team 
 - 🔍 Query category breakdown (Returns, Orders, Refunds, etc.)
 - 🧑‍💼 Tenure-based interaction share for performance analysis
 
-📄 [Click to View Dashboard PNG](![Customer Support Dashboard](Customer%20Support%20Dashboard.png)) 
+📄 [Click to View Dashboard PNG](https://github.com/Saurabh16portfolio/Analysis-Dashboard/blob/main/Customer-Support-Dashboard.png.png?raw=true) 
 
 ## 🔗 Connect with Me
 
