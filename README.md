@@ -73,7 +73,7 @@ Whether you're a recruiter, hiring manager, or fellow data enthusiast, feel free
 📄 [View Dashboard](./4.%20E%20commerce%20Store%20Analysis.pdf)
 
 ---
-## 📦 E-commerce Store Analysis (Tableau)
+## 📦 **E-commerce Store Analysis (Tableau)**
 
 **Objective**:  
 Analyze an online retail store’s performance, customer behavior, and operational metrics using Tableau.
@@ -96,6 +96,28 @@ Analyze an online retail store’s performance, customer behavior, and operation
 [Click to View Dashboard PNG](./5.%20E%20commerce%20Store%20Analysis%20Tableau.png)
 
 ---
+
+## 🎧 **Customer Support Dashboard (Tableau)**
+
+**Objective**  
+Visualize customer satisfaction (CSAT), resolution efficiency, and support team performance across communication channels, shifts, and tenure buckets.
+
+**Tools Used**: Tableau Public
+
+**Key Metrics Tracked**:
+- 📞 Total Interactions: 85,907  
+- ⏱️ % Resolved Within 30 Mins: 73.76%  
+- 📦 Total Orders: 67,675  
+- ⭐ Avg CSAT Score: 4.24  
+
+**Highlights**:
+- 📊 CSAT trend over time (monthly)
+- 👥 Avg CSAT segmented by agent shift and tenure bucket
+- 📬 Channel distribution: Inbound (79.3%), Outcall (17.2%), Email (3.5%)
+- 🔍 Query category breakdown (Returns, Orders, Refunds, etc.)
+- 🧑‍💼 Tenure-based interaction share for performance analysis
+
+📄 [Click to View Dashboard PNG](./images/Customer%20Support%20Dashboard.png) 
 
 ## 🔗 Connect with Me
 
