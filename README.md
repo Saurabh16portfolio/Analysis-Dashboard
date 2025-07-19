@@ -93,7 +93,7 @@ Analyze an online retail store’s performance, customer behavior, and operation
 - 📍 City-level analysis (e.g., Sao Paulo avg. price vs. payment)
 - 🚚 Shipping Days vs. Review Score correlation
 
-[Click to View Dashboard PNG](./5.%20E%20commerce%20Store%20Analysis%20Tableau.png)
+[View Dashboard PNG](./5.%20E%20commerce%20Store%20Analysis%20Tableau.png)
 
 ---
 
@@ -117,7 +117,7 @@ Visualize customer satisfaction (CSAT), resolution efficiency, and support team 
 - 🔍 Query category breakdown (Returns, Orders, Refunds, etc.)
 - 🧑‍💼 Tenure-based interaction share for performance analysis
 
-📄 [Click to View Dashboard PNG](https://github.com/Saurabh16portfolio/Analysis-Dashboard/blob/main/Customer-Support-Dashboard.png.png?raw=true) 
+📄 [View Dashboard PNG](https://github.com/Saurabh16portfolio/Analysis-Dashboard/blob/main/Customer-Support-Dashboard.png.png?raw=true) 
 
 ## 🔗 Connect with Me
 
