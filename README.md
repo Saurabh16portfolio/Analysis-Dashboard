@@ -1,8 +1,10 @@
 # 📊 Data Analysis & Dashboard Portfolio
 ---
-Welcome to my portfolio showcasing real-world business intelligence projects built using **Power BI**, **Tableau**, and **Excel**. These dashboards reflect my hands-on experience as a data-driven professional, with a strong focus on delivering actionable insights across domains such as customer satisfaction, sales performance, e-commerce, and churn prediction.
+Welcome to my portfolio showcasing a range of real-world data analytics projects built using Power BI, Tableau, and Excel. Each dashboard reflects my ability to transform raw data into meaningful insights that drive smarter decisions and business outcomes.
 
-Whether you're a recruiter, hiring manager, or fellow data enthusiast, feel free to explore the dashboards and get a sense of how I approach storytelling with data.
+With experience across diverse domains and use cases, I bring a data-first mindset to problem solving, visualization, and storytelling.
+
+Whether you're a recruiter, hiring manager, or fellow analyst, I invite you to explore my work and see how I approach business intelligence with clarity, precision, and impact.
 
 ---
 
