@@ -5,7 +5,7 @@ Welcome to my portfolio showcasing a range of real-world data analytics projects
 With experience across diverse domains and use cases, I bring a data-first mindset to problem solving, visualization, and storytelling.
 
 Whether you're a recruiter, hiring manager, or fellow analyst, I invite you to explore my work and see how I approach business intelligence with clarity, precision, and impact.
-
+[📄 Download My Resume](https://saurabh16portfolio.github.io/Analysis-Dashboard/Saurabh_Khosla_Resume.pdf.pdf){:target="_blank"}
 ---
 
 ## 🔧 Tools & Technologies
